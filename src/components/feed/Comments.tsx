@@ -1,4 +1,4 @@
-import prisma from "@/lib/client";
+import prisma from "@lib/client";
 import CommentList from "./CommentList";
 
 const Comments = async ({postId}:{postId:number}) => {
