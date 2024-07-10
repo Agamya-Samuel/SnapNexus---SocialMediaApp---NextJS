@@ -1,3 +1,7 @@
+# App Preview
+
+![App Preview](snap-nexus.png)
+
 <div align="center">
 
   <div>
@@ -25,7 +29,7 @@
 
 ## <a name="introduction">🌐 Introduction</a>
 
-This Social Media app is built with Next.js and MySQL, using Prisma ORM for database interactions. It provides a robust platform for users to connect, share content, and interact with each other seamlessly.
+Social media app, built with Next.js, offers a seamless user experience with features like viewing others' profiles, following or blocking users, adding stories, and managing posts by adding, deleting, or reposting them. Users can also edit their profiles to customize their online presence.
 
 ## <a name="tech-stack">⚙️ Tech Stack</a>
 
